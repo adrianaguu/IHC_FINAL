@@ -29,10 +29,8 @@ public class KinectManager : MonoBehaviour
     //public Transform padre;
     public float RotationPistola;
     public bool IsAvailable;
-    public float Forward;
     public float avanzar = 0f;
     public bool IsFire = false;
-    public int FOOTT = 0;
 
     public static KinectManager instance = null;
     
@@ -99,21 +97,14 @@ public class KinectManager : MonoBehaviour
                     Windows.Kinect.Joint muneca = body.Joints[JointType.WristRight];
                     Windows.Kinect.Joint espina = body.Joints[JointType.SpineBase];
                     IsAvailable = true;
+
                    // kinect.text  = pieIzquierdo.Position.Z.ToString();
                    // piernas.text   = pieDerecho.Position.Z.ToString();
-                   
                     //kinect.text  = espina.Position.Y.ToString();
                     //piernas.text   = cabeza.Position.Y.ToString();
 
-                    
-                    float H;
-                    float V;
 
-                    //H = ( 2*Input.GetAxis("Mouse X") ); // || Oculus )
-                    //V = ( 2*Input.GetAxis("Mouse Y") ); // || Oculus )
-                    //padre.Rotate(V,0,0);
                     float distanceSpineWrist=Mathf.Abs(espina.Position.Y - muneca.Position.Y);
-                    
                     //kinect.text  = distanceSpineWrist.ToString();
                     if ( distanceSpineWrist > 0.572 ){//(Mathf.Abs(espina.Position.Y) - Mathf.Abs(cabeza.Position.Y)) > 0.18){
                         RotationPistola = 0.3f;
@@ -155,29 +146,12 @@ public class KinectManager : MonoBehaviour
                         IsFire = true;
                     }
                     else{
-                        
                         IsFire = false;
-                        /* 
-                        Forward = RescalingToRangesB(-1, 1, -8, 8, body.Lean.X);
-                        handXText.text = Forward.ToString();
-                        */
+                        //Forward = RescalingToRangesB(-1, 1, -8, 8, body.Lean.X);
                     }
-                    //END MOVER
-                    // SHOOT KINECT
+                    
 
                     /* 
-                    if( (body.HandLeftConfidence == TrackingConfidence.High)  && (body.HandLeftState == HandState.Lasso))
-                    {
-                        IsFire = true;
-                    }
-                    else{
-                        IsFire = false;
-                    }
-
-                    */
-                    //  END DISPARAR
-
-
                     for (Windows.Kinect.JointType jt = Windows.Kinect.JointType.SpineBase; jt <= Windows.Kinect.JointType.ThumbRight; jt++)
                     {
                         Windows.Kinect.Joint sourceJoint = body.Joints[jt];
@@ -187,6 +161,7 @@ public class KinectManager : MonoBehaviour
                             Time.timeScale = 2f;
                         }  
                     }
+                    */
                 }
                 
                 frame.Dispose();
