@@ -30,7 +30,7 @@ public class Camera_Controller : MonoBehaviour
         {
             Avanzar = KinectManager.instance.avanzar;
             //transform.Translate(Vector3.forward * Avanzar); //back    down    forward left    up
-            transform.Translate(Vector3.back *Avanzar);
+            transform.Translate(Vector3.forward *Avanzar);
         }
 
 

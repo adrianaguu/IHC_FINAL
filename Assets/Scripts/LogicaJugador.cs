@@ -23,7 +23,7 @@ public class LogicaJugador : MonoBehaviour {
         if(vida.valor <= 0)
         {
             Vida0 = true;
-            Invoke("ReiniciarJuego", 2f);
+            Invoke("ReiniciarJuego", 5f);
         }
     }
 

@@ -117,7 +117,7 @@ public class ZombieYoutube : MonoBehaviour {
     {
         if (Vida0) return;
         if (logicaJugador.Vida0) return;
-        if(mirando)
+      //  if(mirando)
             agente.destination = target.transform.position;
     }
 
@@ -135,7 +135,7 @@ public class ZombieYoutube : MonoBehaviour {
     //Vector3.Angle(Vector3.forward, transform.InverseTransformPoint(target.position)) < 60f
     
             disss = distanciaDelBlanco;
-        if(distanciaDelBlanco <= 1.4f )
+        if(distanciaDelBlanco <= 1.6f )
         {
             Atacar();
             atacar = true;

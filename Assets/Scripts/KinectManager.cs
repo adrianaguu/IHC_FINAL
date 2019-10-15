@@ -106,12 +106,12 @@ public class KinectManager : MonoBehaviour
 
                     float distanceSpineWrist=Mathf.Abs(espina.Position.Y - muneca.Position.Y);
                     //kinect.text  = distanceSpineWrist.ToString();
-                    if ( distanceSpineWrist > 0.572 ){//(Mathf.Abs(espina.Position.Y) - Mathf.Abs(cabeza.Position.Y)) > 0.18){
-                        RotationPistola = 0.3f;
+                    if ( distanceSpineWrist > 0.582 ){//(Mathf.Abs(espina.Position.Y) - Mathf.Abs(cabeza.Position.Y)) > 0.18){
+                        RotationPistola = 0.5f;
                         
                     }
-                    else if(distanceSpineWrist > 0.17 && distanceSpineWrist < 0.46 ){
-                        RotationPistola =  -0.3f;
+                    else if(distanceSpineWrist > 0.17 && distanceSpineWrist < 0.48 ){
+                        RotationPistola =  -0.5f;
                         //handXText.text = "NO caminar"
                     }
                     else{
@@ -124,12 +124,12 @@ public class KinectManager : MonoBehaviour
                     // Mover Kinect
                     float distancefoot=Mathf.Abs(Mathf.Abs(pieIzquierdo.Position.Z) - Mathf.Abs(pieDerecho.Position.Z));
                     if (  distancefoot > 0.11){
-                        avanzar = 0.02f;
+                        avanzar = 0.05f;
                         //handXText.text = "caminar";
                     }
                     else if (distancefoot < -0.18)
                     {
-                        avanzar = 0.02f;
+                        avanzar = 0.05f;
                     }
                     else{
                         avanzar = 0f;

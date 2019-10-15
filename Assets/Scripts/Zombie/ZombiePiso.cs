@@ -64,24 +64,15 @@ public class ZombiePiso : MonoBehaviour
     void EstaDefrenteAlJugador()
     {
         
-        //Vector3 targetJugador = (GameObject.Find("OVRPlayerController").transform.position - transform.position).normalized;
-
-
-        //Vector3 forward = transform.TransformDirection(Vector3.forward);
-        Vector3 forward = transform.forward;
-        //Vector3 toOther = GameObject.Find("OVRPlayerController").transform.position - transform.position;
-        Vector3 toOther = GameObject.Find("Player").transform.position - transform.position;
-        //Vector3 toOther = (GameObject.Find("OVRPlayerController").transform.position - transform.position).normalized;
-
-        if(Vector3.Dot(forward,toOther) < 0.8f) //angulo de vision zombie
-        //if(false)
-        {
-            mirando = false;
-        }
-        else
-        {
-            mirando = true;
-        }
+        if( Vector3.Angle(Vector3.forward, target.transform.position ) < 60f  )
+           {
+               if(Vector3.Distance(transform.position, target.transform.position)< 20f)
+                    mirando = false;
+                else
+                    mirando = true;
+           } 
+           else
+                    mirando = true;
     }
 
     void RevisarVida()
@@ -118,7 +109,7 @@ public class ZombiePiso : MonoBehaviour
         if (Vida0) return;
         if (logicaJugador.Vida0) return;
         if(mirando)
-            agente.destination = target.transform.position;
+           agente.destination = target.transform.position;
     }
 
     void RevisarAtaque()
@@ -130,8 +121,8 @@ public class ZombiePiso : MonoBehaviour
         }
         float distanciaDelBlanco = Vector3.Distance(target.transform.position, transform.position);
 
-        //if(distanciaDelBlanco <= 2.0 && mirando)
-        if(distanciaDelBlanco <= 2.0 )
+        if(distanciaDelBlanco <= 2f && mirando)
+        //if(distanciaDelBlanco <= 2f )
         {
             Atacar();
         }
@@ -144,7 +135,8 @@ public class ZombiePiso : MonoBehaviour
         agente.angularSpeed = 0;
         estaAtacando = true;
         animator.SetTrigger("attack");
-        Invoke("ReiniciarAtaque", 1.5f);
+        Invoke("ReiniciarAtaque", 2f);
+        
     }
 
     void ReiniciarAtaque()
