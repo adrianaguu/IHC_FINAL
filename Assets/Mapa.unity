@@ -189,6 +189,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_1 (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5.9300003
@@ -497,6 +501,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 191000686}
     m_Modifications:
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
       value: 15.93
@@ -602,6 +610,10 @@ PrefabInstance:
     - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_Name
       value: Floor_1 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
@@ -929,6 +941,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hospital_floor (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
       value: -22
@@ -1012,7 +1028,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 464538, guid: 8e58f725f7a2c78459ef05118a7ac2dc, type: 3}
       propertyPath: m_RootOrder
-      value: 23
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 464538, guid: 8e58f725f7a2c78459ef05118a7ac2dc, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -1054,6 +1070,10 @@ PrefabInstance:
     - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_Name
       value: Floor_1 (53)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1150,6 +1170,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1372,6 +1396,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_1 (43)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2
@@ -1435,6 +1463,10 @@ PrefabInstance:
     - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_Name
       value: Floor_1 (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1842,6 +1874,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hospital_floor (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
       value: -14
@@ -2174,6 +2210,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hospital_floor (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
       value: -14
@@ -2492,6 +2532,10 @@ PrefabInstance:
     - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_Name
       value: Floor_1 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2912,6 +2956,25 @@ Transform:
   m_Father: {fileID: 191000686}
   m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 270, z: 0}
+--- !u!1 &166470617 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1000011714377176, guid: 85e3420e43c29de4eb5146c616cf5f49,
+    type: 3}
+  m_PrefabInstance: {fileID: 1756269462}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &166470618
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 166470617}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.0000844, y: 3.0054405, z: 0.06910652}
+  m_Center: {x: 0.02853001, y: 1.4965619, z: -0.034564935}
 --- !u!1001 &168113897
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3979,6 +4042,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_1 (52)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
       value: 12
@@ -4023,6 +4090,10 @@ PrefabInstance:
     - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_Name
       value: Floor_1 (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4233,6 +4304,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_1 (44)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -4277,6 +4352,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4379,6 +4458,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4631,6 +4714,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hospital_floor (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
       value: -28
@@ -4746,6 +4833,97 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 254778903}
   m_Mesh: {fileID: 4300000, guid: a20f8c4119d71514b9c48af02fe0cafa, type: 3}
+--- !u!1 &260707130
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 260707134}
+  - component: {fileID: 260707133}
+  - component: {fileID: 260707132}
+  - component: {fileID: 260707131}
+  m_Layer: 0
+  m_Name: Piso1 (4)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!65 &260707131
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 260707130}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &260707132
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 260707130}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!33 &260707133
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 260707130}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &260707134
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 260707130}
+  m_LocalRotation: {x: 0.18896602, y: 0.68138963, z: 0.18896602, w: 0.68138963}
+  m_LocalPosition: {x: -28.91, y: -3.59, z: 6.621}
+  m_LocalScale: {x: 5.5, y: 0.1, z: 2}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 27
+  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 31}
 --- !u!1001 &261788351
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5084,6 +5262,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5493,6 +5675,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_1 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2
@@ -5815,6 +6001,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hospital_floor (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
       value: -16
@@ -5849,6 +6039,25 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+--- !u!1 &327174909 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1000011714377176, guid: 85e3420e43c29de4eb5146c616cf5f49,
+    type: 3}
+  m_PrefabInstance: {fileID: 397109511}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &327174910
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 327174909}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.0000849, y: 3.0054405, z: 0.069106534}
+  m_Center: {x: 0.028530015, y: 1.4965619, z: -0.034567803}
 --- !u!1001 &331144111
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6671,6 +6880,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hospital_floor (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2
@@ -6754,6 +6967,97 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b3e2465a0f6f31f4786f2c5b9653d3f4, type: 3}
+--- !u!1 &393798487
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 393798491}
+  - component: {fileID: 393798490}
+  - component: {fileID: 393798489}
+  - component: {fileID: 393798488}
+  m_Layer: 0
+  m_Name: Piso1 (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!65 &393798488
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 393798487}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &393798489
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 393798487}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!33 &393798490
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 393798487}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &393798491
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 393798487}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -28.44, y: -5.07, z: 10.05}
+  m_LocalScale: {x: 2.8, y: 0.1, z: 2}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 26
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &395070579 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1000011714377176, guid: 85e3420e43c29de4eb5146c616cf5f49,
@@ -7157,6 +7461,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_1 (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
       value: 16
@@ -7557,6 +7865,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8090,6 +8402,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hospital_floor (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
       value: -6
@@ -8224,6 +8540,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8592,6 +8912,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (49)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9785,6 +10109,97 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cc54f1be370bec748ac321d84d85ffe3, type: 3}
+--- !u!1 &578634377
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 578634381}
+  - component: {fileID: 578634380}
+  - component: {fileID: 578634379}
+  - component: {fileID: 578634378}
+  m_Layer: 0
+  m_Name: Piso1 (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!65 &578634378
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 578634377}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &578634379
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 578634377}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!33 &578634380
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 578634377}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &578634381
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 578634377}
+  m_LocalRotation: {x: -0.1349223, y: 0.6941153, z: -0.1349223, w: 0.6941153}
+  m_LocalPosition: {x: -30.91, y: -1.324, z: 5.95}
+  m_LocalScale: {x: 6, y: 0.1, z: 2}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 24
+  m_LocalEulerAnglesHint: {x: 0, y: 90, z: -22}
 --- !u!1001 &579476144
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10265,6 +10680,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_1 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2
@@ -10320,15 +10739,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 493214, guid: 0ae0c3b068b056c4d92bce77b6f12847, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -24.83
+      value: -24.72
       objectReference: {fileID: 0}
     - target: {fileID: 493214, guid: 0ae0c3b068b056c4d92bce77b6f12847, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.05
+      value: -0.11
       objectReference: {fileID: 0}
     - target: {fileID: 493214, guid: 0ae0c3b068b056c4d92bce77b6f12847, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 11.64
+      value: 7.07
       objectReference: {fileID: 0}
     - target: {fileID: 493214, guid: 0ae0c3b068b056c4d92bce77b6f12847, type: 3}
       propertyPath: m_LocalRotation.x
@@ -10336,7 +10755,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 493214, guid: 0ae0c3b068b056c4d92bce77b6f12847, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 493214, guid: 0ae0c3b068b056c4d92bce77b6f12847, type: 3}
       propertyPath: m_LocalRotation.z
@@ -10344,7 +10763,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 493214, guid: 0ae0c3b068b056c4d92bce77b6f12847, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 493214, guid: 0ae0c3b068b056c4d92bce77b6f12847, type: 3}
       propertyPath: m_RootOrder
@@ -10356,7 +10775,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 493214, guid: 0ae0c3b068b056c4d92bce77b6f12847, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: 180
       objectReference: {fileID: 0}
     - target: {fileID: 493214, guid: 0ae0c3b068b056c4d92bce77b6f12847, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -10962,6 +11381,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hospital_floor (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
       value: -6
@@ -11038,6 +11461,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (50)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11215,6 +11642,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (52)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11741,6 +12172,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_1 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
       value: -6
@@ -12038,6 +12473,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hospital_floor (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
       value: -18
@@ -12323,6 +12762,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hospital_floor (36)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
       value: -24
@@ -12407,6 +12850,25 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 2.0000849, y: 3.0054405, z: 0.069106534}
   m_Center: {x: 0.028530015, y: 1.4965616, z: -0.034561127}
+--- !u!1 &737764152 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1000011714377176, guid: 85e3420e43c29de4eb5146c616cf5f49,
+    type: 3}
+  m_PrefabInstance: {fileID: 189117023}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &737764153
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 737764152}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.0000849, y: 3.0054405, z: 0.069106534}
+  m_Center: {x: 0.028530015, y: 1.4965616, z: -0.034567803}
 --- !u!1 &738875723 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188,
@@ -12491,6 +12953,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (59)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -12605,6 +13071,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_1 (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
       value: 14
@@ -12649,6 +13119,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -12859,6 +13333,25 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 763419840}
   m_Mesh: {fileID: 4300036, guid: fc4790c9e2cf297418313ef5f3d08991, type: 3}
+--- !u!1 &765770686 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1000010317865130, guid: 563240cb155ac414fb27fad7ff3ea080,
+    type: 3}
+  m_PrefabInstance: {fileID: 843371555}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &765770687
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 765770686}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9557785, y: 0.24480723, z: 3.9275668}
+  m_Center: {x: -0.0000019073486, y: 0, z: 0}
 --- !u!1 &766174769
 GameObject:
   m_ObjectHideFlags: 0
@@ -12951,6 +13444,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hospital_floor (48)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
       value: -16
@@ -12995,6 +13492,10 @@ PrefabInstance:
     - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_Name
       value: Floor_1 (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
@@ -13089,6 +13590,10 @@ PrefabInstance:
     - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_Name
       value: Floor_1 (49)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
@@ -13630,6 +14135,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hospital_floor (58)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
       value: -30
@@ -14105,6 +14614,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hospital_floor (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2
@@ -14342,6 +14855,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 191000686}
     m_Modifications:
+    - target: {fileID: 1000011670366352, guid: 1c16c31515b85e841aef91065de3e3bb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000011655386572, guid: 1c16c31515b85e841aef91065de3e3bb, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.0699997
@@ -14392,6 +14909,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (61)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -14757,6 +15278,97 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 862793214}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &866229880
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 866229884}
+  - component: {fileID: 866229883}
+  - component: {fileID: 866229882}
+  - component: {fileID: 866229881}
+  m_Layer: 0
+  m_Name: Piso1 (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!65 &866229881
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 866229880}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &866229882
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 866229880}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!33 &866229883
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 866229880}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &866229884
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 866229880}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -29.411, y: -2.07, z: 3.2}
+  m_LocalScale: {x: 4.9, y: 0.1, z: 2}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 25
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &867087700 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188,
@@ -14844,7 +15456,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 464538, guid: 8e58f725f7a2c78459ef05118a7ac2dc, type: 3}
       propertyPath: m_RootOrder
-      value: 19
+      value: 18
       objectReference: {fileID: 0}
     - target: {fileID: 464538, guid: 8e58f725f7a2c78459ef05118a7ac2dc, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -15147,6 +15759,10 @@ PrefabInstance:
     - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_Name
       value: Floor_1 (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
@@ -16737,6 +17353,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hospital_floor (47)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
       value: -12
@@ -16826,6 +17446,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -16920,6 +17544,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -17035,6 +17663,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hospital_floor (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4
@@ -17069,6 +17701,25 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+--- !u!1 &972869308 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432,
+    type: 3}
+  m_PrefabInstance: {fileID: 10326084}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &972869309
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 972869308}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.0000007, y: 0.00000032584137, z: 2.0000002}
+  m_Center: {x: 0.0000009536743, y: 0, z: 0}
 --- !u!1 &976301506 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188,
@@ -17452,6 +18103,25 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 85e3420e43c29de4eb5146c616cf5f49, type: 3}
+--- !u!1 &990148135 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1000011714377176, guid: 85e3420e43c29de4eb5146c616cf5f49,
+    type: 3}
+  m_PrefabInstance: {fileID: 1234968408}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &990148136
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 990148135}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.0000844, y: 3.0054405, z: 0.06910652}
+  m_Center: {x: 0.028530963, y: 1.4965619, z: -0.034564935}
 --- !u!1 &1000304802 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188,
@@ -17481,6 +18151,10 @@ PrefabInstance:
     - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_Name
       value: Floor_1 (51)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
@@ -17572,6 +18246,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_1 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4
@@ -17616,6 +18294,10 @@ PrefabInstance:
     - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_Name
       value: Floor_1 (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
@@ -17774,6 +18456,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -18126,6 +18812,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_1 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2
@@ -18170,6 +18860,10 @@ PrefabInstance:
     - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_Name
       value: Floor_1 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
@@ -18419,6 +19113,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -18783,6 +19481,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_1 (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -18971,6 +19673,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_1 (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
       value: 16
@@ -19015,6 +19721,10 @@ PrefabInstance:
     - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_Name
       value: Floor_1 (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
@@ -19109,6 +19819,10 @@ PrefabInstance:
     - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_Name
       value: Floor_1 (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
@@ -19287,6 +20001,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_1 (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
       value: 10
@@ -19331,6 +20049,10 @@ PrefabInstance:
     - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_Name
       value: Floor_1 (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
@@ -19531,6 +20253,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_1 (36)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
       value: 6
@@ -19707,6 +20433,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -20024,6 +20754,25 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 2.0000844, y: 3.0054405, z: 0.06910652}
   m_Center: {x: 0.02853144, y: 1.4965616, z: -0.034566842}
+--- !u!1 &1173129136 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1000011714377176, guid: 85e3420e43c29de4eb5146c616cf5f49,
+    type: 3}
+  m_PrefabInstance: {fileID: 579476144}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &1173129137
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1173129136}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.0000849, y: 3.0054405, z: 0.069106534}
+  m_Center: {x: 0.028529061, y: 1.4965616, z: -0.03456828}
 --- !u!1001 &1173334972
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20079,6 +20828,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -20175,6 +20928,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -20330,6 +21087,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_1 (31)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
       value: 12
@@ -20464,6 +21225,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (51)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -20938,6 +21703,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hospital_floor (46)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
       value: -14
@@ -21001,6 +21770,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (55)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -21257,6 +22030,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hospital_floor (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
       value: -12
@@ -21382,6 +22159,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -21524,6 +22305,10 @@ PrefabInstance:
     - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_Name
       value: Floor_1 (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
@@ -21810,6 +22595,10 @@ PrefabInstance:
     - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_Name
       value: Floor_1 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
@@ -22148,6 +22937,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_1 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
       value: -6
@@ -22477,6 +23270,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hospital_floor (54)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
       value: -16
@@ -22773,7 +23570,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 20
+  m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1312202171
 PrefabInstance:
@@ -22785,6 +23582,10 @@ PrefabInstance:
     - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_Name
       value: Floor_1 (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
@@ -23112,7 +23913,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 464538, guid: 8e58f725f7a2c78459ef05118a7ac2dc, type: 3}
       propertyPath: m_RootOrder
-      value: 21
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 464538, guid: 8e58f725f7a2c78459ef05118a7ac2dc, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -23494,6 +24295,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_1 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
       value: -6
@@ -23722,6 +24527,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hospital_floor (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
       value: -8
@@ -23906,6 +24715,10 @@ PrefabInstance:
     - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_Name
       value: Floor_1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
@@ -24155,6 +24968,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_1 (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -24291,6 +25108,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -24776,6 +25597,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hospital_floor (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
       value: -6
@@ -24859,7 +25684,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 464538, guid: 8e58f725f7a2c78459ef05118a7ac2dc, type: 3}
       propertyPath: m_RootOrder
-      value: 22
+      value: 21
       objectReference: {fileID: 0}
     - target: {fileID: 464538, guid: 8e58f725f7a2c78459ef05118a7ac2dc, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -25471,6 +26296,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_1 (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
       value: 8
@@ -25696,6 +26525,10 @@ PrefabInstance:
     - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_Name
       value: Floor_1 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
@@ -26288,15 +27121,15 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1521234412}
-  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: -25.6, y: 0.859, z: 26.29}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -25.02, y: 0.84, z: 2.47}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1402717920}
   - {fileID: 270183520}
   m_Father: {fileID: 0}
-  m_RootOrder: 17
-  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+  m_RootOrder: 16
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1521234421
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26323,6 +27156,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -26625,6 +27462,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_1 (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4
@@ -26669,6 +27510,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -27109,7 +27954,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 18
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: -180, z: 0}
 --- !u!1 &1574197558
 GameObject:
@@ -27202,6 +28047,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (57)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -27598,6 +28447,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hospital_floor (42)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
       value: -22
@@ -27687,6 +28540,10 @@ PrefabInstance:
     - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_Name
       value: Floor_1 (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
@@ -28054,6 +28911,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_1 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
       value: -6
@@ -28192,6 +29053,10 @@ PrefabInstance:
     - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_Name
       value: Floor_1 (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
@@ -28424,6 +29289,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (60)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -28886,6 +29755,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hospital_floor (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -29144,6 +30017,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hospital_floor (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
       value: -8
@@ -29278,6 +30155,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -29553,6 +30434,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_1 (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
       value: 16
@@ -29597,6 +30482,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -29643,6 +30532,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_1 (46)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -29687,6 +30580,10 @@ PrefabInstance:
     - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_Name
       value: Floor_1 (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
@@ -29796,6 +30693,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -30069,15 +30970,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4000011825996862, guid: 85e3420e43c29de4eb5146c616cf5f49, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -17.71
+      value: -17.67
       objectReference: {fileID: 0}
     - target: {fileID: 4000011825996862, guid: 85e3420e43c29de4eb5146c616cf5f49, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4000011825996862, guid: 85e3420e43c29de4eb5146c616cf5f49, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.00010450421
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4000011825996862, guid: 85e3420e43c29de4eb5146c616cf5f49, type: 3}
       propertyPath: m_LocalRotation.x
@@ -30257,6 +31158,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hospital_floor (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
       value: -12
@@ -30301,6 +31206,10 @@ PrefabInstance:
     - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_Name
       value: Floor_1 (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
@@ -30524,6 +31433,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hospital_floor (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2
@@ -30613,6 +31526,10 @@ PrefabInstance:
     - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_Name
       value: Floor_1 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
@@ -30887,6 +31804,10 @@ PrefabInstance:
     - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_Name
       value: Floor_1 (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
@@ -31262,6 +32183,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor_1 (47)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2
@@ -31325,6 +32250,10 @@ PrefabInstance:
     - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_Name
       value: Floor_1 (41)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
@@ -31598,6 +32527,10 @@ PrefabInstance:
     - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_Name
       value: Floor_1 (48)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
@@ -32031,85 +32964,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 2.0000844, y: 3.0054405, z: 0.06910652}
   m_Center: {x: 0.028529532, y: 1.4965615, z: -0.034564935}
---- !u!1 &1929099244
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1929099247}
-  - component: {fileID: 1929099246}
-  - component: {fileID: 1929099245}
-  m_Layer: 0
-  m_Name: Terrain
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
-  m_IsActive: 1
---- !u!154 &1929099245
-TerrainCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1929099244}
-  m_Material: {fileID: 0}
-  m_Enabled: 1
-  m_TerrainData: {fileID: 15600000, guid: 4d3894c797a5d6240b836208c891d6c8, type: 2}
-  m_EnableTreeColliders: 1
---- !u!218 &1929099246
-Terrain:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1929099244}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_TerrainData: {fileID: 15600000, guid: 4d3894c797a5d6240b836208c891d6c8, type: 2}
-  m_TreeDistance: 5000
-  m_TreeBillboardDistance: 50
-  m_TreeCrossFadeLength: 5
-  m_TreeMaximumFullLODCount: 50
-  m_DetailObjectDistance: 80
-  m_DetailObjectDensity: 1
-  m_HeightmapPixelError: 5
-  m_SplatMapDistance: 1000
-  m_HeightmapMaximumLOD: 0
-  m_CastShadows: 1
-  m_DrawHeightmap: 1
-  m_DrawInstanced: 0
-  m_DrawTreesAndFoliage: 1
-  m_ReflectionProbeUsage: 1
-  m_MaterialType: 0
-  m_LegacySpecular:
-    serializedVersion: 2
-    rgba: 4286545791
-  m_LegacyShininess: 0.078125
-  m_MaterialTemplate: {fileID: 0}
-  m_BakeLightProbesForTrees: 1
-  m_PreserveTreePrototypeLayers: 0
-  m_ScaleInLightmap: 0.0512
-  m_LightmapParameters: {fileID: 15203, guid: 0000000000000000f000000000000000, type: 0}
-  m_GroupingID: 0
-  m_AllowAutoConnect: 1
---- !u!4 &1929099247
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1929099244}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -100, y: -1, z: -57}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 14
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1930162114
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -32602,7 +33456,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 16
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1960073051 stripped
 GameObject:
@@ -32690,6 +33544,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (53)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -32842,6 +33700,97 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 2.0000005, y: 0.0000004768371, z: 2}
   m_Center: {x: 0, y: 0.00000005953075, z: 0}
+--- !u!1 &1983944495
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1983944499}
+  - component: {fileID: 1983944498}
+  - component: {fileID: 1983944497}
+  - component: {fileID: 1983944496}
+  m_Layer: 0
+  m_Name: Piso1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!65 &1983944496
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1983944495}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &1983944497
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1983944495}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!33 &1983944498
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1983944495}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &1983944499
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1983944495}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -29.411, y: -0.06, z: 10.24}
+  m_LocalScale: {x: 4.9, y: 0.1, z: 2}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 23
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1984706491 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188,
@@ -32890,6 +33839,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -34056,6 +35009,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hospital_floor (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
       value: -6
@@ -34149,6 +35106,25 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2049522975}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2062750811 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1000011714377176, guid: 85e3420e43c29de4eb5146c616cf5f49,
+    type: 3}
+  m_PrefabInstance: {fileID: 1752181103}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &2062750812
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2062750811}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.0000849, y: 3.0054405, z: 0.069106534}
+  m_Center: {x: 0.028530015, y: 1.4965616, z: -0.034567326}
 --- !u!1001 &2064527850
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -34213,6 +35189,25 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 2.0000005, y: 0.0000004768371, z: 2}
   m_Center: {x: -0.0000019073486, y: 0.00000014695343, z: 0}
+--- !u!1 &2067511685 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1000010663146796, guid: 67b1ce6014c675443b221d58c214f22b,
+    type: 3}
+  m_PrefabInstance: {fileID: 2034893888}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &2067511686
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2067511685}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.42502406, y: 3.093837, z: 0.42502347}
+  m_Center: {x: 0.018042568, y: 1.5273038, z: -0.21251757}
 --- !u!1 &2080695687 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1000011714377176, guid: 85e3420e43c29de4eb5146c616cf5f49,
@@ -34766,6 +35761,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hospital_floor (56)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
       value: -18
@@ -34810,6 +35809,10 @@ PrefabInstance:
     - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_Name
       value: Hospital_floor (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012215507118, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000012338701346, guid: 3ac5754d36ec1ba4bafc8966bde4f188, type: 3}
       propertyPath: m_LocalPosition.x
@@ -34900,6 +35903,10 @@ PrefabInstance:
     - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_Name
       value: Floor_1 (50)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012486090718, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4000013947383882, guid: 0897b05dbeac80941970d2fde1d6d432, type: 3}
       propertyPath: m_LocalPosition.x
@@ -35277,7 +36284,7 @@ RectTransform:
   m_Children:
   - {fileID: 1056335223}
   m_Father: {fileID: 0}
-  m_RootOrder: 15
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}

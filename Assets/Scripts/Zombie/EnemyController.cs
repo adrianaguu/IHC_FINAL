@@ -15,7 +15,7 @@ public enum EnemyState {
 
 public class EnemyController : MonoBehaviour
 {
-    private EnemyAnimator enemy_Anim;
+   // private EnemyAnimator enemy_Anim;
     private NavMeshAgent navAgent;
 
     private EnemyState enemy_State;
@@ -47,7 +47,7 @@ public class EnemyController : MonoBehaviour
 
  
     void Awake() {
-        enemy_Anim = GetComponent<EnemyAnimator>();
+      //  enemy_Anim = GetComponent<EnemyAnimator>();
         navAgent = GetComponent<NavMeshAgent>();
 
         target = GameObject.FindWithTag("Player").transform;
@@ -119,18 +119,18 @@ public class EnemyController : MonoBehaviour
 
         if(navAgent.velocity.sqrMagnitude > 0) {
         
-            enemy_Anim.Walk(true);
+         //////   enemy_Anim.Walk(true);
         
         } else {
 
-            enemy_Anim.Walk(false);
+          /////  enemy_Anim.Walk(false);
 
         }
 
         // test the distance between the player and the enemy
         if(Vector3.Distance(transform.position, target.position) <= chase_Distance) {
 
-            enemy_Anim.Walk(true);
+        /////    enemy_Anim.Walk(true);
 
             enemy_State = EnemyState.CHASE;
 
@@ -160,7 +160,7 @@ public class EnemyController : MonoBehaviour
 
             // stop the animations
 //            enemy_Anim.Run(false);
-            enemy_Anim.Walk(false);
+         ///   enemy_Anim.Walk(false);
             enemy_State = EnemyState.ATTACK;
 
             // reset the chase distance to previous
@@ -172,7 +172,7 @@ public class EnemyController : MonoBehaviour
             // player run away from enemy
 
             // stop running
-            enemy_Anim.Walk(false);
+          ////  enemy_Anim.Walk(false);
 
             enemy_State = EnemyState.PATROL;
 
@@ -202,7 +202,7 @@ public class EnemyController : MonoBehaviour
 
         if(attack_Timer > wait_Before_Attack) {
 
-            enemy_Anim.Attack();
+        //////    enemy_Anim.Attack();
 
             attack_Timer = 0f;
 
@@ -227,7 +227,7 @@ public class EnemyController : MonoBehaviour
 
        // Instantiate(brickParticle, transform.position, Quaternion.identity);
         //Particle.SetActive(true);
-        enemy_Anim.Dead();
+  /////    enemy_Anim.Dead();
         //enemy_Anim.Walk(true);
         //Particle.SetActive(false);
     }

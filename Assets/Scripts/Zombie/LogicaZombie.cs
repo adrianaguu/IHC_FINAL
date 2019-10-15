@@ -3,20 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
-/* 
 
-public enum EnemyState {
-    PATROL,
-    WALK,
-    ATTACK,
-    DEAD
-}
-*/
 
 public class LogicaZombie : MonoBehaviour
 {
 
-    /* 
+    
     private GameObject target;
      private NavMeshAgent Agente;
      private Vida vidaZombie;
@@ -33,7 +25,8 @@ public class LogicaZombie : MonoBehaviour
      private float walk_Speed = 1.5f;
      private float patrol_Timer = 15f;
 
-    EnemyState enemy_State;
+  
+  
     
     void Start()
     {
@@ -48,32 +41,16 @@ public class LogicaZombie : MonoBehaviour
         vidaZombie = GetComponent<Vida>();
         animator = GetComponent<Animator>();
         collider = GetComponent<Collider>();
-        enemy_State = EnemyState.WALK;
     }
 
 
     void Update()
     {
-        if(enemy_State == EnemyState.PATROL) {
-            Patrol();
-        }
-
-        if(enemy_State == EnemyState.WALK) {
-            Perseguir();
-        }
-
-        if (enemy_State == EnemyState.ATTACK) {
-            Atacar();
-        }
-
-        if (enemy_State == EnemyState.DEAD) {
-            Perseguir();
-            //Dead();
-        }
-        //RevisaVida();
-        //Perseguir();
-       // RevisarAtaque();
-        //Atacar();
+        
+        RevisaVida();
+        Perseguir();
+        RevisarAtaque();
+       // Atacar();
     }
 
     void EstadeFrenteDelPlayer(){
@@ -108,7 +85,7 @@ public class LogicaZombie : MonoBehaviour
     void Perseguir()
     {
         if (death) {return;}
-        if (logicaJugador.death){return;}
+        if (logicaJugador.Vida0){return;}
         Agente.isStopped = true;
         Agente.destination = target.transform.position;
     }
@@ -117,13 +94,14 @@ public class LogicaZombie : MonoBehaviour
     {
         if (death){return;}
         //if (estaAtacando){return;}
-        if (logicaJugador.death){
+        if (logicaJugador.Vida0){
             animator.SetBool("DebeAtacar", false);
             Agente.isStopped = true;
         }
 
         float distanciaDelBlanco = Vector3.Distance(target.transform.position, transform.position);
-        if(distanciaDelBlanco <= 2.0 && EstaMirando)
+        //if(distanciaDelBlanco <= 2.0 && EstaMirando)
+        if(distanciaDelBlanco <= 2.0)
         {
             Atacar();
         }
@@ -132,7 +110,7 @@ public class LogicaZombie : MonoBehaviour
     void Atacar()
     {
         RevisarAtaque();
-        vidaPlayer.Recibirdaño(daño);
+        vidaPlayer.RecibirDanho(daño);
         Agente.speed = 0;
         Agente.angularSpeed = 0;
         estaAtacando = true;
@@ -141,6 +119,7 @@ public class LogicaZombie : MonoBehaviour
         //Invoke("ReiniciarAtaque", 3.5f);
     }
 
+/* 
     void Patrol() {
         // tell nav agent that he can move
         Agente.isStopped = false;
@@ -168,9 +147,10 @@ public class LogicaZombie : MonoBehaviour
         }
 
      
-    } // patrol
+    }
+    */
 
-/* 
+
     void ReiniciarAtaque()
     {
         estaAtacando = false;        
@@ -178,7 +158,7 @@ public class LogicaZombie : MonoBehaviour
         Agente.speed = speed;
         Agente.angularSpeed = angularspeed;
     }
-    *****************************
+    
 
 
     void SetNewRandomDestination() {
@@ -200,7 +180,7 @@ public class LogicaZombie : MonoBehaviour
 
     }
 
-*/
+
 }
 
 

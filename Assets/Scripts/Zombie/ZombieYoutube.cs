@@ -20,6 +20,8 @@ public class ZombieYoutube : MonoBehaviour {
     public float speed = 1.0f;
     public float angularSpeed = 120;
     public float daño = 25;
+    public bool atacar = false;
+    public float disss =0;
    
     public bool mirando=false;
     //public GameObject bala;
@@ -31,6 +33,9 @@ public class ZombieYoutube : MonoBehaviour {
     
 	void Start () {
         //target = GameObject.Find("OVRPlayerController");
+        
+       // target = GameObject.FindWithTag("Player").transform;
+       // target = GameObject.Find("Player");
         target = GameObject.Find("Player");
         vidaJugador = target.GetComponent<Vida>();
         if(vidaJugador== null)
@@ -58,6 +63,8 @@ public class ZombieYoutube : MonoBehaviour {
         Perseguir();
         EstaDefrenteAlJugador();
         RevisarAtaque();
+        
+        
 
         
 	}
@@ -65,24 +72,21 @@ public class ZombieYoutube : MonoBehaviour {
     void EstaDefrenteAlJugador()
     {
         
-        //Vector3 targetJugador = (GameObject.Find("OVRPlayerController").transform.position - transform.position).normalized;
+        Vector3 forward = transform.TransformDirection(Vector3.forward);
 
-
-        //Vector3 forward = transform.TransformDirection(Vector3.forward);
-        Vector3 forward = transform.forward;
-        //Vector3 toOther = GameObject.Find("OVRPlayerController").transform.position - transform.position;
-        Vector3 toOther = GameObject.Find("Player").transform.position - transform.position;
-        //Vector3 toOther = (GameObject.Find("OVRPlayerController").transform.position - transform.position).normalized;
-
-        if(Vector3.Dot(forward,toOther) < 0.8f) //angulo de vision zombie
-        //if(false)
+        if( Vector3.Angle(Vector3.forward, target.transform.position) < 60f ) //angulo de vision zombie
         {
-            mirando = false;
+            if(Vector3.Distance(transform.position, target.transform.position)<20f )
+                mirando = true;
+            else
+                mirando = false;
         }
         else
         {
-            mirando = true;
+            mirando = false;
         }
+
+
     }
 
     void RevisarVida()
@@ -103,7 +107,8 @@ public class ZombieYoutube : MonoBehaviour {
     {
         if (Vida0) return;
         if (logicaJugador.Vida0) return;
-        agente.destination = new Vector3(Random.Range(-10.0f, 10.0f), 0, Random.Range(-10.0f, 10.0f));
+        //agente.destination = new Vector3(Random.Range(-10.0f, 10.0f), 0, Random.Range(-10.0f, 10.0f));
+        agente.destination = new Vector3(Random.Range(-5.0f, 5.0f), 0, Random.Range(-5.0f, 5.0f));
     
     }
 
@@ -126,11 +131,19 @@ public class ZombieYoutube : MonoBehaviour {
         float distanciaDelBlanco = Vector3.Distance(target.transform.position, transform.position);
 
         //if(distanciaDelBlanco <= 2.0 && mirando)
-        if(distanciaDelBlanco <= 1.0f )
+        
+    //Vector3.Angle(Vector3.forward, transform.InverseTransformPoint(target.position)) < 60f
+    
+            disss = distanciaDelBlanco;
+        if(distanciaDelBlanco <= 1.4f )
         {
             Atacar();
+            atacar = true;
+        //   disss = distanciaDelBlanco;
+        
         }
     }
+
 
     void Atacar()
     {
